@@ -24,4 +24,7 @@ public class TaskCreateDto {
     private LocalDateTime createdAt;
     private LocalDateTime updatedAt;
 
+    public TaskCreateDto() {
+
+    }
 }
