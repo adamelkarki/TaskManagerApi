@@ -1,4 +1,4 @@
-```md
+
 # Task Manager API
 
 Backend REST API for managing professional tasks, built with **Java 17+** and **Spring Boot**, following clean architecture and enterprise best practices.
@@ -123,4 +123,4 @@ This project is **actively developed** as part of a structured learning path foc
 ## 📄 License
 
 This project is for educational and demonstration purposes.
-```
+
