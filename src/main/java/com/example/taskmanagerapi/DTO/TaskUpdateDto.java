@@ -1,5 +1,7 @@
 package com.example.taskmanagerapi.DTO;
 
+import com.example.taskmanagerapi.Domain.Priority;
+import com.example.taskmanagerapi.Domain.Status;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Getter;
@@ -15,8 +17,8 @@ public class TaskUpdateDto {
 
     private String title;
     private String description;
-    private String status;
-    private String priority;
+    private Status status;
+    private Priority priority;
     private LocalDate dueDate;
 
 }
