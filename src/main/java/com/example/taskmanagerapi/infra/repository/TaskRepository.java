@@ -1,4 +1,4 @@
-package com.example.taskmanagerapi.repository;
+package com.example.taskmanagerapi.infra.repository;
 
 import com.example.taskmanagerapi.Domain.Model.Task;
 import org.springframework.data.jpa.repository.JpaRepository;
